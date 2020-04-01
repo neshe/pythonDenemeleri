@@ -8,3 +8,5 @@ while i<=10:
 print(sum)
 
 print(sum+i)
+
+#değişiklikleri nasıl izleyecez acaba
